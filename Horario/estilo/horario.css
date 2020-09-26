@@ -1,0 +1,54 @@
+body{
+	background-color: white;
+}
+
+
+h1{
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+
+}
+
+th.semana{
+	font-size: 15px;
+	font-family: Comic Sans, Arial, monospace;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+th{
+	border: 2px solid black;
+	background-color: white;
+}
+
+th.color_azul{
+	font-size: 30px;
+	font-family: Comic Sans, Arial, monospace;
+	background-color: #3386FF ;
+	color: white;
+}
+
+th.hora{
+	font-size: 12px;
+	font-family: Comic Sans, Arial, monospace;
+}
+
+th.color_azul1{
+	font-size: 14px;
+	font-family: Comic Sans, Arial, monospace;
+	color: white;
+	background-color: #3386FF ;
+}
+
+p{
+	font-size: 10px;
+	font-family: Comic Sans, Arial, monospace;
+}
+
+table th.clases:nth-child(6) {
+	
+	height: 50px;
+}
